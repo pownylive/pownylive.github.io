@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pownylive.github.io/sitemap
+Sitemap: https://pownylive.github.io/app/sitemap
+Sitemap: https://pownylive.github.io/assets/sitemap
+Sitemap: https://pownylive.github.io/css/sitemap
+Sitemap: https://pownylive.github.io/includes/sitemap
+Sitemap: https://pownylive.github.io/item/sitemap
+Sitemap: https://pownylive.github.io/src/sitemap
